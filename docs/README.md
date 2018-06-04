@@ -1,62 +1,26 @@
-# Вэб 101-2018
 
-Вэб хөгжүүлэгч болох гэж байгаа хүүхдүүдэд зориулж суурь мэдлэг олгох хичээл бичдэг юм уу. Чадвал доорх технологиудыг ашиглаад жижиг жижиг вэб апп хийе. Цаг зав чухам яаж таарахнав. Би ер нь өөрөө нээх фронт энд дээр суугаад байдаггүй болохоор тэр талын юмнуудыг орхиод сервер талын юмнуудыг л жаал жуул сийрүүлэх санаатай.
+# Вэб 2018 101
+
+Вэб хөгжүүлэгч болох гэж байгаа залууст зориулж суурь мэдлэг олгох хичээл бичмэр аядав. Чадвал доорх технологиудыг ашиглаад жижиг жижиг вэб апп хийе. Цаг зав чухам яаж таарахнав. Би ер нь өөрөө нээх өнгө үзэмжтэй нь зууралдаад байдаггүй болохоор тэр талын юмнуудыг орхиод сервер талын юмнуудаас нь жаал жуул сийрүүлэх санаатай.
+
+Мэргэжлийн хэллэгүүдийг тэр болгон орчуулах гэж оролдохгүй, бага сага тайлбар хийгээд зүглүүлээд л хаяна. Манай чиглэлийн хүмүүс англи хэлийг өөрийнхөө хэмжээнд ойлгодог байх нь амьдралын шаардлага. Ядаж л google ахтай хэл амаа ололцох хэрэгтэй.
 
 ### Хамрах хүрээ
 
-1. Ruby, Rails, Sqlite3 
-2. NodeJS, Express, MongoDB
+1. Ruby, Rails, Sqlite3 - MSE stock price notification.
+2. NodeJS, Express, MongoDB - 
 3. Java, Spring boot, OracleDB
-4. PHP, Laveral, MySQL
+4. PHP, Laravel, MySQL
 5. Python, Django, PostgreSQL
 6. .NET Core C#, Nancy, MSSQL
 
-### Цагаан толгой
+### Мэдэж байвал алгас
 
 | Нэршил | Тайлбар |
 | --- | --- |
-| A record | |
-| ASCII | |
-| Authentication | |
-| Back-end | |
-| BootStrap | |
-| Browser | |
-| Class | |
-| CNAME record | |
-| CRON | |
-| Cryptography | |
-| CSS | |
-| Database | |
-| Domain name | |
-| DNS | |
-| ENV | |
-| Framework | |
-| Front-end | |
-| GIT | |
-| HTML | |
-| HTTP(S) | |
-| IP address | |
-| Java | |
-| JavaScript | |
-| jQuery | |
-| Linux | |
-| MVC | |
-| Nginx | |
-| Object | |
-| ORM | |
-| Port | |
-| Query | |
-| Ruby | |
-| Rails | |
-| Shell | |
-| SMTP | |
-| SQL | |
-| Template Engine | |
-| Terminal | |
-| TLS | |
-| TTL | |
-| Unicode | |
-| UTF-8 | |
-| Vagrant | |
-| Version | |
-| WWW | |
+| Web developer toolbox 101 | chrome, vagrant, virtual box, git, IDEs, OS selection |
+| Web data storage 101,  | Data formats, SQL, NoSQL Sqlite3, MySQL, PostgreSQL, MSSQL, OracleDB, MongoDB |
+| Web technologies 101 | https://differential.com/insights/14-technologies-every-web-developer-should-be-able-to-explain/ |
+| Web servers 101 | Bash basics, CRON, Nginx, Cloud servers - AWS, Google Cloud, Azure DO, shared hosting |
+| Web networking 101 | Common protocols, IP address, DNS, DNS records |
+| Web security 101 | autentication, authorization, cryptograpy, cracking, penetration testing |
